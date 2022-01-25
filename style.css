@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<form>, initial-scale=1.0">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Dosis:wght@300;400;500;700&family=Poppins:wght@200;300;400;500;600;700;800;900&family=Rancho&display=swap');
+*{
+    font-family: dosis;
+}
+.photo {
+    position: absolute;
+    display: flex;
+    width: 575px;
+    height: 775px;
+    left: 300px;
+    top: 33px;
+    margin-left: auto;
+}
+.play{
+    
+    display: flex;
+    top: 809px;
+}
+.app{
+    display: flex;
+    width: 100px;
+    height: 25px;
+    justify-content: space-between;
+    
+}
+.fb{
+    display: flex;
+    position: absolute;
+    width: 50px;
+    height: 19px;
+    left: 100px;
+
+}
+
+.container {
+    position: absolute;
+    width: 409px;
+    height: 450px;
+    left: 800px;
+    top: 100px;
+    text-align: center;
+    border: 2px solid grey;
+    border-radius: 12px;
+    padding: 5px;
+
+}
+
+#head {
+
+    width: 415.65px;
+    height: 73.07px;
+    left: 894.18px;
+    top: 151.97px;
+
+    font-family:'Brush Script MT', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 44px;
+    line-height: 87px;
+    text-align: center;
+    color: #000000;
+
+
+}
+
+.box1 {
+
+    width: 409.75px;
+    height: 58.46px;
+    left: 889.27px;
+    top: 582.94px;
+
+    font-family: Garamond, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+
+    background: rgba(196, 196, 196, 0.16);
+
+}
+
+.box2 {
+
+    width: 409.75px;
+    height: 58.46px;
+    left: 889.27px;
+    top: 482.94px;
+
+    font-family: Garamond, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+
+    background: rgba(196, 196, 196, 0.16);
+}
+
+.box3 {
+
+    width: 409.75px;
+    height: 58.46px;
+    left: 889.27px;
+    top: 482.94px;
+    background: rgba(42, 187, 249, 0.41);
+
+    font-family: Nova Round;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+}
+
+.box4 {
+
+    width: 277.33px;
+    height: 58.26px;
+    left: 987px;
+    flex-direction: row;
+    top: 627px;
+    text-align: end;
+    font-family: Nova Round;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 29px;
+    
+    color: rgba(5, 27, 29, 0.57);
+
+
+}
+
+.box5 {
+    
+    width: 409px;
+    height: 53.07px;
+    left: 848px;
+    top: 970.93px;
+    font-family: Nova Round;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: center;
+    border: 1px solid rgba(9, 134, 162, 0.57);
+    border-radius: 12px;
+    padding: 5px;
+
+}
+.box8{
+    display: flex;
+    text-align: center;
+}
+.box6{
+    display: flex;
+    width: 137.33px;
+    height: 38.26px;
+    left: 900vh;
+    top: 627px;
+    color: white;
+    text-align: center;
+    margin-left: 55px;
+    border: 15px solid black;
+    border-radius: 15px;
+    padding: 1px;
+    background-color: #000000;
+    cursor: pointer;
+}
+.box7{
+    
+    width: 160.33px;
+    height: 68.26px;
+    margin-left: 20px;
+    color: white;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 2px;
+    background-color: #000000;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    cursor: pointer;
+}
+</style>
+</html>
